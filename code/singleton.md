@@ -40,6 +40,8 @@ public class Singleton {
          return single;
      }
  }
+ ```
+ 
  ```java
  import java.util.HashMap;
  import java.util.Map;
